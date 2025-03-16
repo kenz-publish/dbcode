@@ -1,0 +1,13 @@
+// Nama: paringi
+// Timestamp: 1742139954657
+
+<h2>🌟 CASE </h2>
+        <span>CASE </span>
+        <p><strong>Created:</strong> 06-02-2025 | <strong>Code By:</strong> <a href="https://wa.me/6288215523477">Kenz Market</a></p>
+        
+        <div class="code-container">
+            <button class="copy-btn" onclick="copyCode('code')"><i class="fas fa-copy"></i></button>
+            <pre><code class="language-js" id="code">
+            
+            </code></pre>
+        </div>
