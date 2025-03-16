@@ -1,0 +1,11 @@
+// Timestamp: 1742139106739
+const fakestatus = {
+  key: {
+    fromMe: false,
+    participant: `0@s.whatsapp.net`,
+    ...(from ? { remoteJid: "status@broadcast" } : {})
+  },
+  message: {
+    conversation: ""
+  }
+};
