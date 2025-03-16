@@ -1,0 +1,4 @@
+{
+  "code": "const teks = ``\nreturn kenz.relayMessage(from, {\n        requestPaymentMessage: {\n            currencyCodeIso4217: 'IDR',\n            amount1000: 1000000,\n            requestFrom: m.sender,\n            noteMessage: {\n                extendedTextMessage: {\n                    text: teks,\n                    contextInfo: {\n                        externalAdReply: {\n                            showAdAttribution: true,\n                        }\n                    }\n                }\n            }\n        }\n    }, {})",
+  "timestamp": "2025-03-16T15:07:59.986Z"
+}
