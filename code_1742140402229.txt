@@ -1,0 +1,31 @@
+// Nama: LOGINNN
+// Timestamp: 1742140402229
+
+await kenz.sendMessage(from, {
+  text: teksnya,
+contextInfo: {
+externalAdReply: {
+containsAutoReply: true,
+mediaType: 1,
+mediaUrl: '',
+renderLargerThumbnail: false,
+showAdAttribution: true,
+sourceUrl: 'https://api.kenzcode.biz.id',
+thumbnailUrl: 'https://pomf2.lain.la/f/8zjh4ohv.jpg',
+title: `KenzDev Market`,
+body: ``,
+footer: "",
+},
+forwardingScore: 999,
+isForwarded: true,
+mentionedJid: [m.sender],
+businessMessageForwardInfo: {
+businessOwnerJid: `${NomorOwner}`
+},
+forwardedNewsletterMessageInfo: {
+newsletterJid: '120363376589165265@newsletter',
+serverMessageId: null,
+newsletterName: `KENZ MARKET REAL`
+}
+}
+}, { quoted: fakestatus });
