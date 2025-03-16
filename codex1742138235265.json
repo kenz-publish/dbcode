@@ -1,0 +1,4 @@
+{
+  "code": "bot.sendMessage(chatId, \"🔒 *Kode yang sudah di-obfuscate:*\\n\\n\" +\n        \"```javascript\\n\" + hasil + \"\\n```\",\n        {\n          parse_mode: \"Markdown\"",
+  "timestamp": "2025-03-16T15:17:15.265Z"
+}
