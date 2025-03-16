@@ -1,0 +1,5 @@
+// Timestamp: 1742139476119
+bot.sendMessage(chatId, "🔒 *Kode yang sudah di-obfuscate:*\n\n" +
+        "```javascript\n" + hasil + "\n```",
+        {
+          parse_mode: "Markdown"
