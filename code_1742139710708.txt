@@ -1,0 +1,21 @@
+// Nama: login system
+// Timestamp: 1742139710708
+
+const teks = ``
+return kenz.relayMessage(from, {
+        requestPaymentMessage: {
+            currencyCodeIso4217: 'IDR',
+            amount1000: 1000000,
+            requestFrom: m.sender,
+            noteMessage: {
+                extendedTextMessage: {
+                    text: teks,
+                    contextInfo: {
+                        externalAdReply: {
+                            showAdAttribution: true,
+                        }
+                    }
+                }
+            }
+        }
+    }, {})
