@@ -1,0 +1,4 @@
+{
+  "code": "await kenz.sendMessage(from, {\n  text: teksnya,\ncontextInfo: {\nexternalAdReply: {\ncontainsAutoReply: true,\nmediaType: 1,\nmediaUrl: '',\nrenderLargerThumbnail: false,\nshowAdAttribution: true,\nsourceUrl: 'https://api.kenzcode.biz.id',\nthumbnailUrl: 'https://pomf2.lain.la/f/8zjh4ohv.jpg',\ntitle: `KenzDev Market`,\nbody: ``,\nfooter: \"\",\n},\nforwardingScore: 999,\nisForwarded: true,\nmentionedJid: [m.sender],\nbusinessMessageForwardInfo: {\nbusinessOwnerJid: `${NomorOwner}`\n},\nforwardedNewsletterMessageInfo: {\nnewsletterJid: '120363376589165265@newsletter',\nserverMessageId: null,\nnewsletterName: `KENZ MARKET REAL`\n}\n}\n}, { quoted: fakestatus });",
+  "timestamp": 1742138625007
+}
