@@ -1,0 +1,8 @@
+// Nama: Case Brat
+// Timestamp: 1742367571834
+
+case "brat": {
+                    if (!text) return m.reply(`Masukan Teks\n\nExample: ${prefix + command} rizki`)
+                    sock.sendMessage(m.chat, {sticker: {url: "https://api.siputzx.my.id/api/m/brat?text="+text}})
+                    }
+                    break;
